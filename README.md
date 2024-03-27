@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hello, I’m @YvTur or Yves<br>- 👀 I’m interested in become a data scientist<br>- ⚒️ I am currently working as an IT architect regarding AWS.<br>- 🌱 I’m currently learning python and SQL.<br>- 📫 How to reach me: My email is turley95@gmail.com
+- 👋 Hello, I’m @YvTur or Yves<br>- 👀 I’m interested in become a data scientist<br>- ⚒️ I am currently working as a SQL dev.<br>- 🌱 I’m currently learning python and SQL.<br>- 📫 How to reach me: My email is turley95@gmail.com
 
 
 ## 🌐 Socials:
